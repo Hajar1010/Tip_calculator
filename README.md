@@ -1,5 +1,6 @@
 # Tip_Calculator 
-A simple terminal program that calculates how much tip to leave based on your meal cost and tip percentage
+A simple terminal program that calculates how much tip to leave based on your meal cost and tip 
+
 
 ## What It Does
 Asks the user:
@@ -12,4 +13,5 @@ Asks the user:
 ##  Technologies Used
 -Python
 -Terminal / Command-line
+
 
